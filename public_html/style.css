@@ -1,0 +1,39 @@
+#banner_image{
+ padding-top: 75px;  padding-bottom: 50px;  ext-align: center;      color: #f8f8f8;      background: url(intro-bg_1.jpg) no-repeat center center;      background-size: cover; 
+}
+#banner_content{
+    position: relative;    padding-top: 6%;    padding-bottom: 6%;  margin-top: 12%;     margin-bottom: 12%;     background-color: rgba(0, 0, 0, 0.7);     max-width: 660px; 
+}
+footer{
+    padding: 10px 0;   background-color: #101010;   color:#9d9d9d;    bottom: 0;     width: 100%; 
+ 
+ 
+}
+#h{
+    color:#006666 ; font-weight: bold;
+    
+}
+.column_style{
+    border: 1px solid black
+}
+.table{
+    border:2px solid black; margin: 70px;
+}
+table{
+    width: 100%;
+    margin-top: 150px;
+}
+th,td{
+    padding: 15px;
+    height: 30px;
+    border:1px solid black
+}
+td{
+    height: 50px;
+}
+#panel{
+    margin-top: 150px;
+}
+#log{
+    margin: 500px;
+}
